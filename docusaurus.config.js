@@ -137,28 +137,6 @@ const config = {
         footer: {
             style: 'dark',
             links: [
-                {
-                    title: '社交联系',
-                    items: [
-                        {
-                            label: 'Github',
-                            href: 'https://github.com/Randark-JMT',
-                        },
-                        {
-                            label: 'Twitter',
-                            href: 'https://twitter.com/Randark_JMT',
-                        },
-                        {
-                            label: 'Foxmail mail',
-                            href: 'mailto:randark@foxmail.com',
-                        },
-                        {
-                            label: 'Google mail',
-                            href: 'mailto:randarkjmt@gmail.com',
-                        },
-                    ],
-                },
-                {
                     title: '相关项目友链',
                     items: [
                         {
