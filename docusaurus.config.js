@@ -5,7 +5,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: 'Randark_JMT - 陈橘墨',
+    title: 'Randark_JMT',
     tagline: 'Why So Serious',
     favicon: 'img/favicon.ico',
 
@@ -41,14 +41,14 @@ const config = {
                     // Please change this to your repo.
                     // Remove this to remove the "edit this page" links.
                     editUrl:
-                        'https://github.com/Randark-JMT/Treasure-House/edit/main/',
+                        'https://github.com/Mint318/Treasure/edit/main/',
                 },
                 blog: {
                     showReadingTime: true,
                     // Please change this to your repo.
                     // Remove this to remove the "edit this page" links.
                     editUrl:
-                        'https://github.com/Randark-JMT/Treasure-House/edit/main/',
+                        'https://github.com/Mint318/Treasure/edit/main/',
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
