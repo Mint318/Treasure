@@ -111,6 +111,12 @@ const config = {
                     position: 'left',
                     label: 'CTF研究',
                 },
+                  {
+                    type: 'docSidebar',
+                    sidebarId: 'Web_Sidebar',
+                    position: 'left',
+                    label: '安全',
+                },
                 {
                     href: '/blog',
                     label: 'Blog',
